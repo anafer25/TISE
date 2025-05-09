@@ -12,8 +12,11 @@ Physics:
 **Schrödinger Equation:**
 - Time-Independent Schrödinger Equation in 1D:
       −ℏ²⁄2m · d²ψ/dx² + V(x)ψ = Eψ
+  
       *In atomic units (ℏ = m = 1):*
+  
   so
+  
       -1/2 · d²ψ/dx² + V(x)ψ = Eψ
 
 Disclaimer:
