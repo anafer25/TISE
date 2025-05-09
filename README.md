@@ -11,16 +11,10 @@ It includes code that:
 Physics:
 **Schrödinger Equation:**
 - Time-Independent Schrödinger Equation in 1D:
-
-\[
-- \frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} + V(x)\psi = E\psi
-\]
-
-*In atomic units* (\( \hbar = m = 1 \)):
-
-\[
-- \frac{1}{2} \frac{d^2\psi}{dx^2} + V(x)\psi = E\psi
-\]
+      −ℏ²⁄2m · d²ψ/dx² + V(x)ψ = Eψ
+      *In atomic units (ℏ = m = 1):*
+  so
+      -1/2 · d²ψ/dx² + V(x)ψ = Eψ
 
 Disclaimer:
 This project was created as a personal learning exercise based on university coursework and independent study. It is intended as a portfolio piece and a practice tool for numerical physics.
